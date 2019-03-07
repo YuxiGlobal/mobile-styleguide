@@ -7,3 +7,6 @@ TO-DO:
 [] Implement Angular's Style Guide.
 [] Make a list of areas where the conventions will apply.
 [] Search for a linter configuration (_probably codelyzer_) to ensure we can make this easier.
+[] Check out John Papa's VSCODE plugin list for Angular.
+[] Find linters for CSS and HTML.
+[] See what we can use from the Airbnb style guide.
