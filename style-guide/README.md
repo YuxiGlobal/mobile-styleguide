@@ -10,3 +10,6 @@ TO-DO:
 [] Check out John Papa's VSCODE plugin list for Angular.
 [] Find linters for CSS and HTML.
 [] See what we can use from the Airbnb style guide.
+[] Implement ITCSS for CSS.
+[] Guides for proper Testing.
+[] Check out git flow.
